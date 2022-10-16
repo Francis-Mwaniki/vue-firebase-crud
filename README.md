@@ -14,6 +14,11 @@ yarn serve
 ```
 yarn build
 ```
+firebase
+
+```
+yarn add firebase
+```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
